@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://mohanreddythippireddy14-cell.github.io"><img src="https://img.shields.io/badge/Website-portfolio-4f46e5?style=for-the-badge" alt="Website"></a>
+  <a href="https://mohanreddythippireddy14-cell.github.io/assets/Thippireddy-Mohan-Reddy-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-f05d4d?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé PDF"></a>
   <a href="https://www.linkedin.com/in/thippireddy-mohan-reddy-732a78382/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohanreddythippireddy14@gmail.com"><img src="https://img.shields.io/badge/Email-mohanreddythippireddy14%40gmail.com-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
