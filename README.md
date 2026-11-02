@@ -20,8 +20,8 @@ Detection mAP@50 0.731 ± 0.010 (5-fold CV); mask mAP@50 0.908 on PothRGBD.
 
 **[STIR 2026: surgical point tracking](https://github.com/mohanreddythippireddy14-cell/STIR-CHALLENGE-2026-MICCAI-ENDOVIS)**\
 Tracking points on deforming tissue in laparoscopic video for the MICCAI EndoVis challenge.
-Dockerized mono/stereo inference harness and local benchmarks of existing trackers
-(best so far: DenseTrack2D, ATA 0.743 at 485 ms p95 on 4 dev sequences).
+Dockerized mono/stereo inference harness, benchmarks of 10+ trackers, and a frame-by-frame streaming
+version of DenseTrack2D for the 2026 rules (best streaming result so far: 70.64 δ_avg vs the 77.62 target).
 
 **[CogAIt](https://github.com/mohanreddythippireddy14-cell/CogAIt)** · [live app](https://cog-ai-t.vercel.app)\
 A tutor for JEE/NEET students that replies with questions instead of answers. A validator rejects replies that
