@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://mohanreddythippireddy14-cell.github.io"><img src="https://img.shields.io/badge/Website-portfolio-4f46e5?style=for-the-badge" alt="Website"></a>
-  <a href="https://mohanreddythippireddy14-cell.github.io/assets/Thippireddy-Mohan-Reddy-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-f05d4d?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé PDF"></a>
-  <a href="https://www.linkedin.com/in/thippireddy-mohan-reddy-732a78382/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mohanreddythippireddy14@gmail.com"><img src="https://img.shields.io/badge/Email-mohanreddythippireddy14%40gmail.com-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mohanreddythippireddy14-cell.github.io"><img src="https://img.shields.io/badge/Website-portfolio-334155?style=for-the-badge" alt="Website"></a>
+  <a href="https://mohanreddythippireddy14-cell.github.io/assets/Thippireddy-Mohan-Reddy-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé PDF"></a>
+  <a href="https://www.linkedin.com/in/thippireddy-mohan-reddy-732a78382/"><img src="https://img.shields.io/badge/LinkedIn-connect-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohanreddythippireddy14@gmail.com"><img src="https://img.shields.io/badge/Email-mohanreddythippireddy14%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 Second-year B.Tech student at **IIIT Allahabad** (IT, Business Informatics · CGPA 8.22) and research member of the
@@ -82,20 +82,26 @@ Writes, renders (1080×1920) and uploads a video to three platforms three times 
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=e2e8f0)
+![C++](https://img.shields.io/badge/C++-475569?style=flat-square&logo=cplusplus&logoColor=e2e8f0)
+![PyTorch](https://img.shields.io/badge/PyTorch-475569?style=flat-square&logo=pytorch&logoColor=e2e8f0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-475569?style=flat-square&logo=tensorflow&logoColor=e2e8f0)
+![OpenCV](https://img.shields.io/badge/OpenCV-475569?style=flat-square&logo=opencv&logoColor=e2e8f0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-475569?style=flat-square&logo=scikitlearn&logoColor=e2e8f0)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-475569?style=flat-square&logo=huggingface&logoColor=e2e8f0)
+![Docker](https://img.shields.io/badge/Docker-475569?style=flat-square&logo=docker&logoColor=e2e8f0)
+![CUDA](https://img.shields.io/badge/CUDA-475569?style=flat-square&logo=nvidia&logoColor=e2e8f0)
+![Linux](https://img.shields.io/badge/Linux-475569?style=flat-square&logo=linux&logoColor=e2e8f0)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-475569?style=flat-square&logo=githubactions&logoColor=e2e8f0)
+![React](https://img.shields.io/badge/React-475569?style=flat-square&logo=react&logoColor=e2e8f0)
+![Firebase](https://img.shields.io/badge/Firebase-475569?style=flat-square&logo=firebase&logoColor=e2e8f0)
 
 **Computer vision:** YOLOv8 · segmentation · point tracking (CoTracker3, LiteTracker, Track-On2, MFT) · RAFT · Depth-Anything-V2 · stereo · DINOv2\
 **ML methods:** fine-tuning · knowledge distillation · pseudo-labelling · Bayesian inference · Kalman filtering · uncertainty estimation\
 **Agentic AI:** multi-agent orchestration · guardrails and response validation · LLM-as-judge · Gemini · Groq
+
+## Education
+
+**IIIT Allahabad** · B.Tech, Information Technology (Business Informatics) · 2025 to 2029 (expected) · CGPA 8.22Coursework: Operating Systems, Computer Organization and Architecture, Discrete Mathematics, Machine Learning, Deep LearningMember, E-Cell Sponsorship Team, IIIT Allahabad · 2025 to present
+
+**Résumé:** [download the PDF](https://mohanreddythippireddy14-cell.github.io/assets/Thippireddy-Mohan-Reddy-Resume.pdf) · **Website:** [mohanreddythippireddy14-cell.github.io](https://mohanreddythippireddy14-cell.github.io)
